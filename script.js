@@ -35,7 +35,7 @@ const PLANS = {
   },
 };
 const ACCOUNTS = [
-  { id: "paga", label: "Payment Option 1", method: "PAGA", number: "0559663811", name: "Jemegbe Ayiri" },
+  { id: "paga", label: "Payment Option 1", method: "PAGA", number: "3009102959", name: "Joshua jemegbe" },
 ];
 const KEY = "jovia_users_v1";
 const SES = "jovia_session_v1";
@@ -405,5 +405,5 @@ function telegramProof() {
   lines.push(`Transaction/Reference ID: ${payRef}`);
   lines.push("Payment Status: PENDING VERIFICATION");
   lines.push("", "I am sending my payment proof for verification.");
-  window.open("https://wa.me/2347086862033?text=" + encodeURIComponent(lines.join("\n")), "_blank");
+  window.open("https://wa.me/2348101137540?text=" + encodeURIComponent(lines.join("\n")), "_blank");
                                                                 }
