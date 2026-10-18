@@ -19,9 +19,9 @@ Open `index.html` in a browser, or enable GitHub Pages on this repository.
 
 ## Payment
 PAGA  
-0559663811  
-Jemegbe Ayiri
+3009102959  
+Joshua jemegbe
 
 Submitting payment proof does **not** activate the account. An administrator must verify the payment.
 
-WhatsApp support / verification: [07086862033](https://wa.me/2347086862033)
+WhatsApp support / verification: [08101137540](https://wa.me/2348101137540)
