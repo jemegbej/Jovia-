@@ -14,8 +14,8 @@ Open `index.html` in a browser, or enable GitHub Pages on this repository.
 - `images/` and `videos/`
 
 ## Plans
-- Silver: ₦9,000
-- Gold: ₦15,000
+- Silver: ₦9,100
+- Gold: ₦15,100
 
 ## Payment
 PAGA  
