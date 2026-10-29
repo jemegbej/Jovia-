@@ -1,8 +1,8 @@
 const PLANS = {
   silver: {
-    name: "Silver", amount: 9000, cashback: 9000,
+    name: "Silver", amount: 9100, cashback: 9000,
     benefits: [
-      "₦9,000 ($9.00) instant cashback / smash bonus",
+      "₦9,100 ($9.00) instant cashback / smash bonus",
       "Fixed countdown time on videos and games",
       "1 second = ₦50 ($0.05)",
       "Celebrity videos: ₦1,500 ($1.50) for 30 seconds",
@@ -17,9 +17,9 @@ const PLANS = {
     ],
   },
   gold: {
-    name: "Gold", amount: 15000, cashback: 15000,
+    name: "Gold", amount: 15100, cashback: 15000,
     benefits: [
-      "₦15,000 ($15.00) instant cashback / smash bonus",
+      "₦15,100 ($15.00) instant cashback / smash bonus",
       "Adjustable countdown from 30 seconds up to 1 hour",
       "1 second = ₦100 ($0.10)",
       "Celebrity videos: ₦3,000 ($3.00) for 30 seconds",
